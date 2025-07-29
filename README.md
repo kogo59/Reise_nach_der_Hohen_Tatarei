@@ -27,6 +27,6 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass [archive.org](https://archive.org/details/reisenachderhohe00shaw/mode/2up))
+Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass [archive.org](https://archive.org/details/reisenachderhohe00shaw/mode/2up)
 
 
