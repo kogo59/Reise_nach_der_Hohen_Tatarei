@@ -1,0 +1,4 @@
+﻿% Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass.
+% Robert Barkley Shaw (1839-1879); Übersetzer: J. E. A. Martin (1822-1892)
+% 1876, Hermann Costenoble, Jena. 
+ <br/><br/>Dieses Werk basiert auf dem Digitalisat von [archive.org](http://resolver.staatsbibliothek-berlin.de/SBB00006CDD00000000) und ist Public Domain Der [Urheber](hhttps://en.wikipedia.org/wiki/Robert_Barkley_Shaw) dieses Werks ist 1879 gestorben; es ist daher gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers. Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es vor dem 1. Januar 1930 veröffentlicht wurde.
