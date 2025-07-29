@@ -1,6 +1,6 @@
 # Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass.
 
-<img align="right" height="150" src="https://github.com/kogo59/Reisen_im_Ostindischen_Archipel_in_den_Jahren_1865_und_1866/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Reise_nach_der_Hohen_Tatarei/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass".
 
@@ -27,6 +27,6 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass [archive.org]((https://archive.org/details/reisenachderhohe00shaw/mode/2up))
+Reise nach der Hohen Tatarei, Yârkand und Kâshghar und Rückreise über den Karakoram-Pass [archive.org](https://archive.org/details/reisenachderhohe00shaw/mode/2up))
 
 
