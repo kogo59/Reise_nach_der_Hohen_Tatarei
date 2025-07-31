@@ -247,8 +247,8 @@ englischen Kärrners, deren herabhängendes Ende zu verschiedenen Zwecken dient;
 es wird niedergezogen, um entweder die Augen vor der Sonne oder beide Ohren vor
 den kalten Winden des Nachmittags zu schützen.
 
-:::: { .wrap-80 .break-after .caption .align-center }
-![Bazar in Leh (Ladâk);<br /> <small>in der Ferne die Ansicht des Gebirgszuges südlich vom Indus.<br /> Nach einer Photographie von Dr. Henderson.</small>](Reise_nach_der_Hohen_Tatarei_008.jpg "Bazar in Leh (Ladâk)."){#b008 }
+:::: { .wrap-80 .caption .align-center }
+![Bazar in Leh (Ladâk);<br /> <small>in der Ferne die Ansicht des Gebirgszuges südlich vom Indus.<br /> Nach einer Photographie von Dr. Henderson.</small>](Reise_nach_der_Hohen_Tatarei_008.jpg "Bazar in Leh (Ladâk)."){#b008}
 ::::
 
 Unter der Gruppe, die sich gesammelt hat, um den Reisenden zu sehen, befindet
@@ -264,7 +264,7 @@ lebenspendenden Wasserbächen, während ganz oben, bis zur äußersten Kante, ei
 furchtbare Wüste von Kies, ohne das geringste Zeichen von der Existenz des
 Menschen, liegt.
 
-In dem breiten Thale des oberen Indus, welches Ladâk „ausmacht, erstrecken
+In dem breiten Thale des oberen Indus, welches Ladâk ausmacht, erstrecken
 stellenweise die Dörfer ununterbrochen sich mehrere Meilen weit. Das Getreide
 steht hier wunderbar üppig, und das Klima ist milder, da die Höhe nur 11,000 Fuß
 beträgt. Die Stadt Leh selbst liegt unter den Bergen, gegen vier Meilen^[^0102]^ vom

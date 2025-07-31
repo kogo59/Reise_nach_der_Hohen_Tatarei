@@ -244,7 +244,7 @@ finden, erklären und hoffentlich entschuldigen.
 ## Verzeichniß der Illustrationen.
 
 1. [Bergspitze im Küen-Lün-Gebirge. Titelkupfer.](ch001.xhtml#b000)
-3. [Bazâr in Leh (Ladâk)](ch002.xhtml#b008)
+3. [Bazâr in Leh (Ladâk)](ch004.xhtml#b008)
 4. Tatarischer Sattel
 5. Kopf einer neuen Antilopenart mit lyraförmigen Hörnern
 6. Einzug nach Yârkand
