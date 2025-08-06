@@ -246,8 +246,8 @@ finden, erklären und hoffentlich entschuldigen.
 1. [Bergspitze im Küen-Lün-Gebirge. Titelkupfer.](#b000)
 3. [Bazâr in Leh (Ladâk)](#b008)
 4. [Tatarischer Sattel](#b129)
-5. Kopf einer neuen Antilopenart mit lyraförmigen Hörnern
-6. Einzug nach Yârkand
+5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](#b142)
+6. [Einzug nach Yârkand](#b146)
 7. Ein Zimmermanns-Maaß
 8. Pulverhorn
 9. Scharfrichter-Messer
