@@ -248,7 +248,7 @@ finden, erklären und hoffentlich entschuldigen.
 4. [Tatarischer Sattel.](ch010.xhtml#b129)
 5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](ch010.xhtml#b142)
 6. [Einzug nach Yârkand](ch010.xhtml#b146)
-7. Ein Zimmermanns-Maaß
+7. [Ein Zimmermanns-Maaß](ch011.xhtml#b170)
 8. Pulverhorn
 9. Scharfrichter-Messer
 10. Ein Feuerstein mit Verzierungen.. 261
