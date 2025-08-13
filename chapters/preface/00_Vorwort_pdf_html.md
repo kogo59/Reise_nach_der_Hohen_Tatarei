@@ -248,10 +248,10 @@ finden, erklären und hoffentlich entschuldigen.
 4. [Tatarischer Sattel](#b129)
 5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](#b142)
 6. [Einzug nach Yârkand](#b146)
-7. Ein Zimmermanns-Maaß
-8. Pulverhorn
+7. [Ein Zimmermanns-Maaß](#b170)
+8. [Pulverhorn](#b196)
 9. Scharfrichter-Messer
-10. Ein Feuerstein mit Verzierungen.. 261
+10. Ein Feuerstein mit Verzierungen
 11. Abend-Besuch bei dem Atalik-Ghâzi
 12. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
 13. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge
@@ -262,7 +262,7 @@ finden, erklären und hoffentlich entschuldigen.
 
 [^0000]: [Proceedings of the Royal Geographical Society. Vol. XIV. Session 1869-70. pag. 136.]{.footnote}
 
-[^0001]: [Results of a Scientisie Mission to India and High Asia by Hermann de Schlagintweit-Sakünlünski, Adolphe and Robert de Schlagintweit. Vols I-IV. Fol. Atlas 1-43. Leipzig, Brockhaus.<br />Reisen in Indien und Hochasien etc. Von Hermann von Schlagintweit-Sakünlünski. 3 Bände. Jena, Hermann Costenoble. 1869, 1871 und 1872.
+[^0001]: [Results of a Scientistic Mission to India and High Asia by Hermann de Schlagintweit-Sakünlünski, Adolphe and Robert de Schlagintweit. Vols I-IV. Fol. Atlas 1-43. Leipzig, Brockhaus.<br />Reisen in Indien und Hochasien etc. Von Hermann von Schlagintweit-Sakünlünski. 3 Bände. Jena, Hermann Costenoble. 1869, 1871 und 1872.
 ]{.footnote}
 
 [^0002]: [Sammlung 275 ethnographischer Raçentypen (vordere Hälfte der Köpfe).Von H., A. und R. von Schlagintweit. Leipzig, J. A. Barth, 1858.<br />Die deutsche Ausgabe der „Reisen“ ist es, die mir, im Manuscript auch für die letzten Bogen des unter der Presse befindlichen dritten Bandes, vorliegt..]{.footnote}

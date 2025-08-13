@@ -249,9 +249,9 @@ finden, erklären und hoffentlich entschuldigen.
 5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](ch010.xhtml#b142)
 6. [Einzug nach Yârkand](ch010.xhtml#b146)
 7. [Ein Zimmermanns-Maaß](ch011.xhtml#b170)
-8. Pulverhorn
+8. [Pulverhorn](ch011.xhtml#b196)
 9. Scharfrichter-Messer
-10. Ein Feuerstein mit Verzierungen.. 261
+10. Ein Feuerstein mit Verzierungen 
 11. Abend-Besuch bei dem Atalik-Ghâzi
 12. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
 13. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge

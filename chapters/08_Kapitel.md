@@ -13,7 +13,7 @@ Bokhâra. — Theehandel. — Das Dorf Bora. — Die Antilope mit Lyra-Hörnern.
 Kameele. — Abendunterhaltungen. — Dem Reisenden wird große Ehre erwiesen. — Man
 bringt ihm viele Lebensmittel. — Wir überschreiten den Yârkand-Strom. — Nähern
 uns der Stadt. — Das öffentliche Blutgerüst. — Die Stadt Yârkand. — Der
-*Yang-Shahr,* die Neustadt, oder das chinestsche Cantonnement. — Anweisung eines
+*Yang-Shahr,* die Neustadt, oder das chinesische Cantonnement. — Anweisung eines
 Quartiers und Bewillkommnung in Yârkand.<br/><br />
 ::::
 
