@@ -249,15 +249,16 @@ finden, erklären und hoffentlich entschuldigen.
 5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](ch010.xhtml#b142)
 6. [Einzug nach Yârkand](ch010.xhtml#b146)
 7. [Ein Zimmermanns-Maaß](ch011.xhtml#b170)
-8. [Pulverhorn](ch011.xhtml#b196)
-9. Scharfrichter-Messer
-10. Ein Feuerstein mit Verzierungen 
-11. Abend-Besuch bei dem Atalik-Ghâzi
-12. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
-13. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge
-14. Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers
-15. Karte der Route von Leh nach Yârkand und Kâshghar. Am Ende.
-16. Skizze des Landes nördlich von Indien. Am Ende.
+8. [Pulverhorn](ch012.xhtml#b196)
+9. [Ohrring](ch014.xhtml#b240)
+10. Scharfrichter-Messer
+11. Ein Feuerstein mit Verzierungen 
+12. Abend-Besuch bei dem Atalik-Ghâzi
+13. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
+14. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge
+15. Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers
+16. Karte der Route von Leh nach Yârkand und Kâshghar. Am Ende.
+17. Skizze des Landes nördlich von Indien. Am Ende.
 
 
 [^0000]: [Proceedings of the Royal Geographical Society. Vol. XIV. Session 1869-70. pag. 136.]{.footnote}
