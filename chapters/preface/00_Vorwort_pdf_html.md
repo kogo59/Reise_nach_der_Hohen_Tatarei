@@ -244,14 +244,14 @@ finden, erklären und hoffentlich entschuldigen.
 ## Verzeichniß der Illustrationen.
 
 1. [Bergspitze im Küen-Lün-Gebirge. Titelkupfer.](#b000)
-3. [Bazâr in Leh (Ladâk)](#b008)
-4. [Tatarischer Sattel](#b129)
-5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern](#b142)
-6. [Einzug nach Yârkand](#b146)
-7. [Ein Zimmermanns-Maaß](#b170)
+3. [Bazâr in Leh (Ladâk).](#b008)
+4. [Tatarischer Sattel.](#b129)
+5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern.](#b142)
+6. [Einzug nach Yârkand.](#b146)
+7. [Ein Zimmermanns-Maaß.](#b170)
 8. [Pulverhorn](#b196)
 9. [Ohrring](#b240)
-10. Scharfrichter-Messer
+10. [Scharfrichter-Messer](#b252)
 11. Ein Feuerstein mit Verzierungen
 12. Abend-Besuch bei dem Atalik-Ghâzi
 13. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
