@@ -59,7 +59,7 @@ vor dem Ganzen sich hinziehenden Veranda vorhanden. Hier ist ein gewaltig große
 khoten'scher Teppich ausgebreitet und längs dem Rücken befinden sich wollene
 Decken.
 
-„Der Mahrambasshi brachte fofort einen „Dastar-khân“, und ich wurde gefragt,
+„Der Mahrambashi brachte fofort einen „Dastar-khân“, und ich wurde gefragt,
 wann ich den König zu besuchen wünschte. Ich antwortete, ich möchte es sofort
 thun, wenn es aber schicklich wäre, daß ich gleich beim ersten Besuche meine
 Geschenke überreichte, so wäre das nicht möglich, da ich nicht Zeit genug hätte,
@@ -91,7 +91,7 @@ auch nur so viel, als eine Nadel werth ist. Er würde sonst böse werden.“
 Geschenke für den König auf Präsentirtellern zurecht gelegt und gegen neun Uhr
 kamen verschiedene Fremdeneinführer, um mich abzuholen. Escortirt von dem
 Yuzbashi, der mir gestern entgegenkam, meinem eigenen Yuzbashi (der, nebenbei
-gesagt, wie der König, Mohammad Yakub heißt), dem Mahrambasshi u. s. w., und
+gesagt, wie der König, Mohammad Yakub heißt), dem Mahrambashi u. s. w., und
 gefolgt von zwischen dreißig und vierzig Mann, welche die verschiedenen
 Gegenstände trugen, die meinen „Nazar“ oder meine Gabe bildeten, machte ich mich
 auf. Von meiner Thür bis zum Eingange des Palastes, eine Viertelmeile weit,

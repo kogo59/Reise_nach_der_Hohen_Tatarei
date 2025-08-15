@@ -102,7 +102,7 @@ Beherrscher fremder Raçen sind.
 „*Kâshghar, den 1. Februar.* — Der Yuzbashi und der Mahrambashi nahmen an meinem
 Mittags-Pilao Theil.
 
-„Der Mahrambasshi zeigte mir, wie der chinesische Ambân (Gouverneur) auf dem
+„Der Mahrambashi zeigte mir, wie der chinesische Ambân (Gouverneur) auf dem
 Stuhle zu sitzen und mit Stäbchen zu essen pflegte. Er saß mit seinem Weibe,
 Söhnen und Töchtern an einem großen Tische. Aus den Schüsseln langten sie sich,
 sagte er, wie die Engländer mit Löffeln zu, tranken hierauf ihren „Arak“ und
@@ -595,7 +595,7 @@ Tage aufzuhalten.“
 mir, wenn ich mich in Yârkand befände, wo ich verhältnißmäßige Freiheit genoß.
 Der Mann sagt noch, der König werde in Kurzem sich nach der genannten Stadt
 begeben, da er gern dem Geschenkemachen ausweichen will, das am Bakra-Id üblich
-ist. Der Mahrambasshi theilte heut dem Munshi mit, er glaube, ich würde hier
+ist. Der Mahrambashi theilte heut dem Munshi mit, er glaube, ich würde hier
 nicht mehr länger als sieben bis acht Tage bleiben.
 
 „Ich zeigte dem Munshi und den Dienern vermittelst eines lebendigen Planetariums

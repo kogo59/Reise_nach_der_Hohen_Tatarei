@@ -252,7 +252,7 @@ finden, erklären und hoffentlich entschuldigen.
 8. [Pulverhorn](#b196)
 9. [Ohrring](#b240)
 10. [Scharfrichter-Messer](#b252)
-11. Ein Feuerstein mit Verzierungen
+11. [Ein Feuerstein mit Verzierungen.](#b281)
 12. Abend-Besuch bei dem Atalik-Ghâzi
 13. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
 14. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge
