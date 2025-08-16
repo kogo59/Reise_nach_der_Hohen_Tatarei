@@ -1,4 +1,4 @@
-# Vierzehntes Kapitel.&nbsp;<br />**Aufenthalt in Kâshghar.**<br />&nbsp;<small>(Fortsetzung)</small><br /><br /> {#vierzehn .unnumbered}
+# Vierzehntes Kapitel.&nbsp;<br />**Aufenthalt in Kâshghar.**<br />&nbsp;<small>(Fortsetzung.)</small><br /><br /> {#vierzehn .unnumbered}
 
 ::: justified
 
