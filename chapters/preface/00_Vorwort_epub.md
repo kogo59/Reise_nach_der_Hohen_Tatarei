@@ -254,7 +254,7 @@ finden, erklären und hoffentlich entschuldigen.
 10. [Scharfrichter-Messer](ch015.xhtml#b252)
 11. [Ein Feuerstein mit Verzierungen.](ch015.xhtml#b281)
 12. [Abend-Besuch bei dem Atalik-Ghâzi.](ch016.xhtml#b302)
-13. Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt
+13. [Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt.](ch017.xhtml#b312)
 14. Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge
 15. Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers
 16. Karte der Route von Leh nach Yârkand und Kâshghar. Am Ende.
