@@ -801,7 +801,7 @@ dem Lande der Mâghuls in der Nähe von Karakoram (in der Mongolei) gekommen sei
 sie seien unwissende Barbaren gewesen, hätten aber erst Khoten und dann das
 übrige Turkistân erobert. Die Mâghuls seien Brüder der *Tataren* gewesen, die
 ursprünglich in ihrer Nähe gewohnt, die aber zur Zeit der Eroberungen Chinghiz
-Khan's sich in Turkistän angesiedelt hätten. Die heutigen Usbegs seien Tataren;
+Khan's sich in Turkistân angesiedelt hätten. Die heutigen Usbegs seien Tataren;
 wenn man aber die Bewohner Ost-Turkistâns fragte, ob sie Mâghuls oder Tataren
 seien, so antworteten sie: „Wer sind die Mâghuls, und wer sind die Tataren?“
 
