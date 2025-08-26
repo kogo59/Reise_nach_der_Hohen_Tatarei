@@ -558,7 +558,7 @@ schönen Yârkandi völlig verborgen, wie der Seidenwurm in seinem Cocon.
 Das Horn auf dem Kopfe soll der ursprüngliche Kopfpütz des Landes sein. Und
 damit stimmt eine Beschreibung überein, die sich in den Reisen Hwui Seng's,
 eines chinesischen Pilgers, findet, der Ost-Turkistân im Jahre 519 nach Christi
-Geburt besuchte. Er sagt: „Die königlichen Damen . . . . tragen ebenfalls auf
+Geburt besuchte. Er sagt: „Die königlichen Damen ... tragen ebenfalls auf
 dem Kopfe ein Horn, das acht Fuß (?) und noch länger ist; drei Fuß von seiner
 Länge sind von rothen Korallen ... Was die übrigen großen Damen betrifft, so
 bedecken sie sämmtlich ihre Köpfe in gleicher Weise; sie tragen *Hörner*, von

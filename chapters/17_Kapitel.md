@@ -733,7 +733,7 @@ erreichen, wanderten wir fort bis Mitternacht, wo wir uns dann wieder auf der
 dem Winde nicht ausgesetzten Seite eines Steines, der nicht drei Fuß hoch war,
 niederlegen mußten. Aber diesmal hatten wir gar Nichts zu essen und zu trinken.
 
-:::: { .wrap-70 .caption  .align-center }
+:::: { .wrap-60 .caption  .align-center }
 ![Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers.](Reise_nach_der_Hohen_Tatarei_372.jpg "Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers."){#b372}
 ::::
 

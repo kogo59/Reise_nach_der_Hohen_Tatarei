@@ -60,13 +60,13 @@ Britischen Commissär in Ladâk.
 **Jena**<br />
 ::::
 
-:::: { .fs-xs .align-center .break-after}
+:::: { .fs-xs .align-center }
 Hermann Costenoble<br />
 1876
 ::::
 
-:::: { .wrap-80 .break-after .caption .align-center }
-![Bergspitze im Küen-Lün-Gebirge.<br /><small>Nach einer Skizze von *R. B. Shaw*, gezeichnet von Major *Strutt.*](Reise_nach_der_Hohen_Tatarei_000.jpg "Bergspitze im Küen-Lün-Gebirge."){#b000 }
+:::: { .wrap-70 .break-after .caption .align-center }
+![Bergspitze im Küen-Lün-Gebirge.<br /><small>Nach einer Skizze von *R. B. Shaw*, gezeichnet von Major *Strutt.*</small>](Reise_nach_der_Hohen_Tatarei_000.jpg "Bergspitze im Küen-Lün-Gebirge."){#b000 }
 ::::
 
 :::: { .fs-xxl .align-center }

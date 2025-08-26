@@ -257,8 +257,8 @@ finden, erklären und hoffentlich entschuldigen.
 13. [Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt.](#b312)
 14. [Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge.](#b368)
 15. [Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers.](#b372)
-16. Karte der Route von Leh nach Yârkand und Kâshghar. Am Ende.
-17. Skizze des Landes nördlich von Indien. Am Ende.
+16. [Karte der Route von Leh nach Yârkand und Kâshghar.](#b421) Am Ende.
+17. [Skizze des Landes nördlich von Indien.](#b422) Am Ende.
 
 
 [^0000]: [Proceedings of the Royal Geographical Society. Vol. XIV. Session 1869-70. pag. 136.]{.footnote}

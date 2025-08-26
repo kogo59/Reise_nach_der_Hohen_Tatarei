@@ -246,24 +246,24 @@ finden, erklären und hoffentlich entschuldigen.
 1. [Bergspitze im Küen-Lün-Gebirge. Titelkupfer.](ch001.xhtml#b000)
 3. [Bazâr in Leh (Ladâk).](ch004.xhtml#b008)
 4. [Tatarischer Sattel.](ch010.xhtml#b129)
-5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern.](ch010.xhtml#b142)
-6. [Einzug nach Yârkand](ch010.xhtml#b146)
-7. [Ein Zimmermanns-Maaß.](ch011.xhtml#b170)
-8. [Pulverhorn](ch012.xhtml#b196)
-9. [Ohrring](ch014.xhtml#b240)
-10. [Scharfrichter-Messer](ch015.xhtml#b252)
-11. [Ein Feuerstein mit Verzierungen.](ch015.xhtml#b281)
-12. [Abend-Besuch bei dem Atalik-Ghâzi.](ch016.xhtml#b302)
-13. [Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt.](ch017.xhtml#b312)
-14. [Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge.](ch018.xhtml#b368)
-15. [Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers.](ch018.xhtml#b372)
-16. Karte der Route von Leh nach Yârkand und Kâshghar. Am Ende.
-17. Skizze des Landes nördlich von Indien. Am Ende.
+5. [Kopf einer neuen Antilopenart mit lyraförmigen Hörnern.](ch011.xhtml#b142)
+6. [Einzug nach Yârkand](ch011.xhtml#b146)
+7. [Ein Zimmermanns-Maaß.](ch012.xhtml#b170)
+8. [Pulverhorn](ch013.xhtml#b196)
+9. [Ohrring](ch015.xhtml#b240)
+10. [Scharfrichter-Messer](ch016.xhtml#b252)
+11. [Ein Feuerstein mit Verzierungen.](ch017.xhtml#b281)
+12. [Abend-Besuch bei dem Atalik-Ghâzi.](ch018.xhtml#b302)
+13. [Ansicht von Kâshghar und dem Gebirgszuge, der es von den russischen Besitzungen trennt.](ch019.xhtml#b312)
+14. [Eismeer an der Quelle des Shayok-Flusses im Karakoram-Gebirge.](ch020.xhtml#b368)
+15. [Flucht vor Ueberschwemmung in Folge des Schmelzens eines Gletschers.](ch020.xhtml#b372)
+16. [Karte der Route von Leh nach Yârkand und Kâshghar.](ch023.xhtml#b421) Am Ende.
+17. [Skizze des Landes nördlich von Indien.](ch023.xhtml#b422) Am Ende.
 
 
 [^0000]: [Proceedings of the Royal Geographical Society. Vol. XIV. Session 1869-70. pag. 136.]{.footnote}
 
-[^0001]: [Results of a Scientistic Mission to India and High Asia by Hermann de Schlagintweit-Sakünlünski, Adolphe and Robert de Schlagintweit. Vols I-IV. Fol. Atlas 1-43. Leipzig, Brockhaus.<br />Reisen in Indien und Hochasien etc. Von Hermann von Schlagintweit-Sakünlünski. 3 Bände. Jena, Hermann Costenoble. 1869, 1871 und 1872.
+[^0001]: [Results of a Scientistic Mission to India and High Asia by Hermann de Schlagintweit-Sakünlünski, Adolphe and Robert de Schlagintweit. Vols. I-IV. Fol. Atlas 1-43. Leipzig, Brockhaus.<br />Reisen in Indien und Hochasien etc. Von Hermann von Schlagintweit-Sakünlünski. 3 Bände. Jena, Hermann Costenoble. 1869, 1871 und 1872.
 ]{.footnote}
 
 [^0002]: [Sammlung 275 ethnographischer Raçentypen (vordere Hälfte der Köpfe). Von H., A. und R. von Schlagintweit. Leipzig, J. A. Barth, 1858.<br />Die deutsche Ausgabe der „Reisen“ ist es, die mir, im Manuscript auch für die letzten Bogen des unter der Presse befindlichen dritten Bandes, vorliegt.]{.footnote}
