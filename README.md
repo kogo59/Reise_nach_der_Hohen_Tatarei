@@ -15,7 +15,7 @@ Translator:
 
 # Licenses
 Some or all works by this author are in the public domain in the United States
-because they were published before January 1, 1930. The author died in 1914, so
+because they were published before January 1, 1930. The author died in 1879, so
 works by this author are also in the public domain in countries and areas where
 the copyright term is the author's life plus 70 years or less. Works by this
 author may also be in the public domain in countries and areas with longer
